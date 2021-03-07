@@ -1,6 +1,6 @@
 # How to deploy your website on github : 
 ## STEP 1: Create Repository
-# ![Create Repository](/images/1.png)    
+# ![Create Repository](../images/1.png)    
 
 ## STEP 2: Name it as your project name (preferred) 
 # ![Create Repository](/images/2.png)  
